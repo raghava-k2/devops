@@ -1,0 +1,7 @@
+.p-chips.p-component .p-chips-multiple-container {
+    padding: 0.45rem;
+}
+
+.p-chips.p-component .p-chips-multiple-container .p-chips-input-token {
+    padding: 0px;
+}
